@@ -17,7 +17,7 @@ function updateLocalStorage(bucket) {
   localStorage.setItem('bucket', JSON.stringify(bucket))
 }
 
-const state = {
+const state = { 
   places: [
     {
       id: 1,
