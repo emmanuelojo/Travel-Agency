@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an About page</h1>
+    <h1>This is a Contact page</h1>
     <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores blanditiis rerum saepe quibusdam necessitatibus assumenda minus eaque autem reiciendis vel atque esse ratione eius recusandae beatae, corporis temporibus inventore! Eveniet.</p>
   </div>
 </template>
