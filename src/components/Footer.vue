@@ -37,7 +37,7 @@
     <br />
     <hr />
     <div class="copy">
-      <p>Created By <span> <a href="https://emmanuelojo.github.io/">Jekon 007</a> </span> | All Rights Reserved </p>
+      <p>Created By <span> <a href="https://jekon-dev.netlify.app/">Jekon 007</a> </span> | All Rights Reserved </p>
     </div>
   </div>
 </template>
